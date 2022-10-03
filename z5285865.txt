@@ -1,0 +1,6 @@
+Week1
+we decided who the scrum master was, and we decided on the name of the team and the project to work on.
+Week2
+In the second week, the division of labor was determined, with those students in charge of the front end and those in charge of the back end.
+Week3
+After several meetings, the functional modules of the project were determined, and the proposal was written by division of labor.
